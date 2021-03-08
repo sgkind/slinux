@@ -1,0 +1,5 @@
+#!/bin/sh
+
+
+# 开启guake terminal
+guake &
